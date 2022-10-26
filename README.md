@@ -3,7 +3,7 @@
 <p>
 💡 &nbsp; Studies at IIT, JU <br>
 🌱 &nbsp; Currently, I'm on track for learning more about Software Engineering <br>
-🖊️ &nbsp; Love to write code <br> 
+🖊️ &nbsp; I love solving problems on Codeforces, Topcoder, Codechef<br> 
 📫 &nbsp; Llike to explore new technologies and develop software solutions<br>
 
 ## 🚀 About Me
