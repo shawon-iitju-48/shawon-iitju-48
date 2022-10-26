@@ -1,5 +1,5 @@
 ## Hi there, I'm Md. Bokhtiar Nadeem Shawon 
-<img align="right" alt="coding" width="400" src="http://innov8tiv.com/wp-content/uploads/2015/02/life-of-programmer-1.gif">
+<img align="right" alt="coding" width="350" src="http://innov8tiv.com/wp-content/uploads/2015/02/life-of-programmer-1.gif">
 <p>
 💡 &nbsp; Studies at IIT, JU <br>
 🌱 &nbsp; Currently, I'm on track for learning more about Software Engineering <br>
@@ -35,11 +35,9 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 ![](https://komarev.com/ghpvc/?username=shawon-iitju-48&color=447ff7&label=Visitor+count)
 
 <p align="center">
-  <a href="https://github.com/shawon-iitju-48">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawon-iitju-48&show_icons=true&theme=algolia&hide_border=true" />
-       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-iitju-48&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shawon-iitju-48&show_icons=true&theme=algolia&hide_border=true" />
+       <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-iitju-48&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
      <img src="https://activity-graph.herokuapp.com/graph?username=shawon-iitju-48&theme=react-dark" />
-</a>
 </p>
 
 
