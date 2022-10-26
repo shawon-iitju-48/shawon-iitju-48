@@ -36,8 +36,8 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 <p align="center">
   <a href="https://github.com/shawon-iitju-48">
-    <img src="https://github-readme-stats.vercel.app/api?username=shawon-iitju-48&show_icons=true&theme=algolia&hide_border=true" />
-       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-iitju-48&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawon-iitju-48&show_icons=true&theme=algolia&hide_border=true" />
+       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-iitju-48&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
      <img src="https://activity-graph.herokuapp.com/graph?username=shawon-iitju-48&theme=react-dark" />
 </a>
 </p>
