@@ -20,7 +20,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![ShellScripting](https://img.shields.io/badge/-ShellScripting-05122A?style=flat&logo=ShellScripting)&nbsp;
+![Shell Scripting](https://img.shields.io/badge/-ShellScripting-05122A?style=flat&logo=ShellScripting)&nbsp;
 
   ## 🤝🏻 &nbsp;Connect with Me
 
