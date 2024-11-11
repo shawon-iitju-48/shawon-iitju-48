@@ -1,7 +1,7 @@
 ## Hi there, I'm Md. Bokhtiar Nadeem Shawon 
 <img align="right" alt="coding" width="350" src="http://innov8tiv.com/wp-content/uploads/2015/02/life-of-programmer-1.gif">
 <p>
-💡 &nbsp; Studies at IIT, JU <br>
+💡 &nbsp; Graduated in 2024 from IIT, JU <br>
 🌱 &nbsp; Currently, I'm on track for learning more about Software Engineering <br>
 🖊️ &nbsp; I love solving problems on Codeforces, Topcoder, Codechef<br> 
 📫 &nbsp; Like to explore new technologies and develop software solutions<br>
